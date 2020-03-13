@@ -72,3 +72,4 @@ fabric.properties
 
 # Jupyter notebook specific files
 ipynb_checkpoints
+src/.ipynb_checkpoints/
